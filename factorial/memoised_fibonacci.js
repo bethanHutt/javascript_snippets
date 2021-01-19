@@ -19,3 +19,6 @@ var fib = function(n) {
 };
 
 fib(5);
+
+
+// O(2n-1) === O(n)
